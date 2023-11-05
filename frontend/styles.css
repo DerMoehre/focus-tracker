@@ -3,11 +3,27 @@ nav{
     background-color: aqua;
 }
 
+
 ul{
     display: flex;
     flex-direction: row;
     gap: 32px;
     list-style-type: none;
+}
+
+.content{
+    display: flex;
+    background-color: bisque;
+}
+
+.new-topic{
+    padding: 20px;
+    align-self: flex-start;
+    font-weight: 600;
+}
+
+.bi-plus-circle-fill{
+    
 }
 
 a{
