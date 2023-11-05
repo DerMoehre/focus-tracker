@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    background-color: aqua;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    list-style-type: none;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
